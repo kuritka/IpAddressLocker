@@ -1,0 +1,13 @@
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\obj\Debug\IpAddressLocker.csprojResolveAssemblyReference.cache
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\IpAddressLocker.dll
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\IpAddressLocker.pdb
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\FluentAssertions.Core.dll
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\FluentAssertions.dll
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\nunit.framework.dll
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\FluentAssertions.pdb
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\FluentAssertions.xml
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\FluentAssertions.Core.pdb
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\FluentAssertions.Core.xml
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\bin\Debug\nunit.framework.xml
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\obj\Debug\IpAddressLocker.dll
+C:\Temp\Projects\PripravaNaSkype\IpAddressLocker\IpAddressLocker\obj\Debug\IpAddressLocker.pdb
